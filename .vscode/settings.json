@@ -5,5 +5,8 @@
     "python.testing.nosetestsEnabled": false,
     "python.pythonPath": "/usr/local/bin/python",
     "workbench.colorTheme": "Cobalt2",
-    "workbench.iconTheme": "vscode-icons"
+    "workbench.iconTheme": "vscode-icons",
+    "git.autofetch": true,
+    "git.autoStash": true,
+    "git.enableSmartCommit": true
 }
