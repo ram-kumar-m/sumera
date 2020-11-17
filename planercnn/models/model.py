@@ -20,7 +20,7 @@ import torch.utils.data
 from torch.autograd import Variable
 
 import utils
-from nms.nms_wrapper import nms
+from torchvision.ops import nms
 from roialign.roi_align.crop_and_resize import CropAndResizeFunction
 import cv2
 from models.modules import *
