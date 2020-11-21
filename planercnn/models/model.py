@@ -21,7 +21,7 @@ from torch.autograd import Variable
 import torchvision
 import utils
 from torchvision.ops import nms
-from roialign.roi_align.crop_and_resize import CropAndResizeFunction
+from roi_align.crop_and_resize import CropAndResizeFunction
 import cv2
 from models.modules import *
 from utils import *
