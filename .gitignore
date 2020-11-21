@@ -136,3 +136,6 @@ dmypy.json
 *.pth
 *.h5
 *.checkpoint 
+
+# Inference 
+inference/
