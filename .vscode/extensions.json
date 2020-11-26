@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "ms-python.vscode-pylance",
+        "aaron-bond.better-comments",
+        "dongli.python-preview",
+        "frhtylcn.pythonsnippets",
+        "vscode-icons-team.vscode-icons",
+        "almenon.arepl",
+        "njpwerner.autodocstring",
+        "oderwat.indent-rainbow",
+        "patbenatar.advanced-new-file",
+        "frhtylcn.pythonsnippets",
+        "GrapeCity.gc-excelviewer",
+        "KevinRose.vsc-python-indent",
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+    ]
+}
