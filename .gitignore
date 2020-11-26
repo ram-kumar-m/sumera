@@ -140,3 +140,6 @@ dmypy.json
 
 # Inference 
 inference/
+
+# Data
+data/
