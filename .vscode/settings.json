@@ -8,5 +8,6 @@
     "workbench.iconTheme": "vscode-icons",
     "git.autofetch": true,
     "git.autoStash": true,
-    "git.enableSmartCommit": true
+    "git.enableSmartCommit": true,
+    "python.languageServer": "Pylance"
 }
