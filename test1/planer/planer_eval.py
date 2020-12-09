@@ -10,9 +10,9 @@ import cv2
 import copy
 import glob
 
-from planer_models.model import *
-from planer_models.refinement_net import RefineModel
-from planer_models.modules import *
+from .planer_models.model import *
+from .planer_models.refinement_net import RefineModel
+from .planer_models.modules import *
 
 class PlaneRCNNDetector():
     def __init__(self, options, config, modelType, checkpoint_dir=''):
