@@ -19,12 +19,12 @@ import torch.optim as optim
 import torch.utils.data
 from torch.autograd import Variable
 import torchvision
-import utils
+from . import utils
 from torchvision.ops import nms
 from roi_align.crop_and_resize import CropAndResizeFunction
 import cv2
-from models.modules import *
-from utils import *
+from .modules import *
+from .utils import *
 
 ############################################################
 #  Pytorch Utility Functions
