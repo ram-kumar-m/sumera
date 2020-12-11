@@ -143,3 +143,5 @@ inference/
 
 # Data
 data/
+planercnn/cloudflared-stable-linux-amd64.tgz
+planercnn/cloudflared
